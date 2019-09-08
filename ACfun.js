@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         ACfun
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/RaibFlee/TamperMonkeyScript/edit/master/ACfun.js
 // @version      0.1
 // @description  acfun打开视频时，自动网页全屏，切换为1080P
 // @author       You
